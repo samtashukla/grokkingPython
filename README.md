@@ -1,2 +1,2 @@
 # grokkingPython
-fun-time Python coding for dummies
+Leet code challenges and other problems
